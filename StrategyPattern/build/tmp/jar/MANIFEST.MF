@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main.class
+Class-Path: C:\Users\ordi\Desktop\Cours PDF\BAC 2\QUAD 2\Conception d'appl Java Théorie\Exercice Théorique\HEH_CT_ExemplesDP-7255db6ad69bcdd44d1ea7e1726b2d8f58875c99\StrategyPattern\build\libs\StrategyPattern.jar
+
+
