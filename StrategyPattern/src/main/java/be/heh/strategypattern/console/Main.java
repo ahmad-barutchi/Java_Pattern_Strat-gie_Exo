@@ -16,7 +16,7 @@ public class Main
         CalculTotal cTotal = new CalculTotal(list.employes);
         System.out.println("Status 1 : "+cTotal.SalaireTotal());
         employe.setStatus(new Commission());
-        System.out.println("Changement de status d'un employer(Status 2) : "+cTotal.SalaireTotal());
+        System.out.println("---- Changement de status d'un employer(Status 2) : ----"+cTotal.SalaireTotal());
 
        
        
